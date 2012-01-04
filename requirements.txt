@@ -42,4 +42,4 @@ zope.interface==3.8.0
 zope.schema==4.0.1
 zope.sqlalchemy==0.7
 zope.testbrowser==4.0.2
-git+ssh://git@github.com/koansys/Kotti.git#egg=kotti
+kotti==0.4.3
